@@ -61,14 +61,6 @@ Room booking simulation with interactive JS calendar.
 
 ---
 
-## 🔥 Fun Animation
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khunakon47&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 How to reach me
 
 📧 Email: **job22222q@gmail.com**  
