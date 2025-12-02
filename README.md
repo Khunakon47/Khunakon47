@@ -52,15 +52,6 @@ Room booking simulation with interactive JS calendar.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khunakon47&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khunakon47&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
 ## 📫 How to reach me
 
 📧 Email: **job22222q@gmail.com**  
